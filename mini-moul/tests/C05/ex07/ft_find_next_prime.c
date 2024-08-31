@@ -30,7 +30,7 @@ int main(void)
         {
             .desc = "Next prime after 2",
             .n = 2,
-            .expected = {2, 3},
+            .expected = 3,
         },
         {
             .desc = "Next prime after 10",
